@@ -1,4 +1,6 @@
 # 🎛️ Servo Control Panel
+AI WAS USED IN THIS AS A HELPING TOOL
+
 
 A Tkinter-based GUI for controlling two servos via a PCA9685 PWM driver on Raspberry Pi. Includes manual control and a playable Rock Paper Scissors game where the servos physically act out the CPU's move.
 
